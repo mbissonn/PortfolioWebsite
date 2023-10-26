@@ -46,6 +46,7 @@
 /home/mbissonn/Documents/GitHub/PortfolioWebsite/Server/obj/Debug/net6.0/ref/PortfolioWebsite.Server.dll
 /home/mbissonn/Documents/GitHub/PortfolioWebsite/Server/obj/Debug/net6.0/PortfolioWebsite.Server.pdb
 /home/mbissonn/Documents/GitHub/PortfolioWebsite/Server/obj/Debug/net6.0/PortfolioWebsite.Server.genruntimeconfig.cache
+C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\PortfolioWebsite.Client.staticwebassets.runtime.json
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\appsettings.json
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
@@ -54,7 +55,6 @@ C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\BlazorDebugProxy\
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\PortfolioWebsite.Client.staticwebassets.runtime.json
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\PortfolioWebsite.Server.staticwebassets.runtime.json
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\PortfolioWebsite.Server.exe
 C:\Users\mbiss\GitHub\PortfolioWebsite\Server\bin\Debug\net6.0\PortfolioWebsite.Server.deps.json
