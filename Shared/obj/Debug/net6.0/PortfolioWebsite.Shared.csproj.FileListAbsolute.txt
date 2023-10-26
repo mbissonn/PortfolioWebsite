@@ -9,3 +9,14 @@ C:/Users/mbiss/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.
 C:/Users/mbiss/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/refint/PortfolioWebsite.Shared.dll
 C:/Users/mbiss/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.pdb
 C:/Users/mbiss/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/ref/PortfolioWebsite.Shared.dll
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\bin\Debug\net6.0\PortfolioWebsite.Shared.deps.json
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\bin\Debug\net6.0\PortfolioWebsite.Shared.dll
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\bin\Debug\net6.0\PortfolioWebsite.Shared.pdb
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\PortfolioWebsite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\PortfolioWebsite.Shared.AssemblyInfoInputs.cache
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\PortfolioWebsite.Shared.AssemblyInfo.cs
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\PortfolioWebsite.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\PortfolioWebsite.Shared.dll
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\refint\PortfolioWebsite.Shared.dll
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\PortfolioWebsite.Shared.pdb
+C:\Users\mbiss\GitHub\PortfolioWebsite\Shared\obj\Debug\net6.0\ref\PortfolioWebsite.Shared.dll
