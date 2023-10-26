@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\PortfolioWebsite.Client.csproj": {}
+    "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/PortfolioWebsite.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\PortfolioWebsite.Client.csproj": {
+    "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/PortfolioWebsite.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\PortfolioWebsite.Client.csproj",
+        "projectUniqueName": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/PortfolioWebsite.Client.csproj",
         "projectName": "PortfolioWebsite.Client",
-        "projectPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\PortfolioWebsite.Client.csproj",
-        "packagesPath": "C:\\Users\\mbiss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\obj\\",
+        "projectPath": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/PortfolioWebsite.Client.csproj",
+        "packagesPath": "/home/mbissonn/.nuget/packages/",
+        "outputPath": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mbiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mbissonn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\PortfolioWebsite.Shared.csproj": {
-                "projectPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\PortfolioWebsite.Shared.csproj"
+              "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Shared/PortfolioWebsite.Shared.csproj": {
+                "projectPath": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Shared/PortfolioWebsite.Shared.csproj"
               }
             }
           }
@@ -60,15 +58,14 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.23, 6.0.23]"
+              "version": "[6.0.24, 6.0.24]"
             }
           ],
           "frameworkReferences": {
@@ -76,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.124/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -85,24 +82,22 @@
         }
       }
     },
-    "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\PortfolioWebsite.Shared.csproj": {
+    "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Shared/PortfolioWebsite.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\PortfolioWebsite.Shared.csproj",
+        "projectUniqueName": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Shared/PortfolioWebsite.Shared.csproj",
         "projectName": "PortfolioWebsite.Shared",
-        "projectPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\PortfolioWebsite.Shared.csproj",
-        "packagesPath": "C:\\Users\\mbiss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\obj\\",
+        "projectPath": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Shared/PortfolioWebsite.Shared.csproj",
+        "packagesPath": "/home/mbissonn/.nuget/packages/",
+        "outputPath": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mbiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mbissonn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -126,8 +121,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -136,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.124/RuntimeIdentifierGraph.json"
         }
       }
     }
