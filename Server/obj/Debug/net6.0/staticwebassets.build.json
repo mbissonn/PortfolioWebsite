@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7lRnI9PbcFT9dWwKj2BzofVxu8nLKFV2/YMQ2vjcw2A=",
+  "Hash": "upPcjcyxtFylF10JSCfRJOF6mg+6dc1Ii0WQoIaJeLw=",
   "Source": "PortfolioWebsite.Server",
   "BasePath": "_content/PortfolioWebsite.Server",
   "Mode": "Default",
@@ -7118,12 +7118,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/wwwroot/icon-192.png",
+      "Identity": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/wwwroot/files/Test.pdf",
       "SourceId": "PortfolioWebsite.Client",
       "SourceType": "Project",
       "ContentRoot": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "icon-192.png",
+      "RelativePath": "files/Test.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7132,7 +7132,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/icon-192.png"
+      "OriginalItemSpec": "wwwroot/files/Test.pdf"
     },
     {
       "Identity": "/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/wwwroot/index.html",

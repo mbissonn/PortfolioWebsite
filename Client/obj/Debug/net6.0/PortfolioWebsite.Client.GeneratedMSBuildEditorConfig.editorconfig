@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzZWFyY2gucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/Shared/DownloadablePDF.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Rvd25sb2FkYWJsZVBERi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
