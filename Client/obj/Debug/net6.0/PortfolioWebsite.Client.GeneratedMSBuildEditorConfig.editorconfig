@@ -5,47 +5,49 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = true
-build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = PortfolioWebsite.Client
 build_property.RootNamespace = PortfolioWebsite.Client
-build_property.ProjectDir = /home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/
+build_property.ProjectDir = C:\Users\mbiss\GitHub\PortfolioWebsite\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/mbissonn/Documents/GitHub/PortfolioWebsite/Client
+build_property.MSBuildProjectDirectory = C:\Users\mbiss\GitHub\PortfolioWebsite\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/App.razor]
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/Fiction.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmljdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/Research.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZWFyY2gucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/_Imports.razor]
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/DownloadablePDF.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERvd25sb2FkYWJsZVBERi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-y7jqp07gpx
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-773whgzg5a
 
-[/home/mbissonn/Documents/GitHub/PortfolioWebsite/Client/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-b8nfs7ynko
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gnlkhewvfb
