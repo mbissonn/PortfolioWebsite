@@ -1,0 +1,20 @@
+@namespace myComponents
+@inherits Modal
+
+<div class="modal" id=@modalID>
+    <div class="modal-content">
+        <div class="modal-header">
+            Header text goes here.
+        </div>
+        <div class="modal-body">
+            Body text goes here.
+        </div>
+        <div class="modal-footer">
+            <button class="btn-danger" @onclick="ToggleModal">Close</button>
+        </div>
+    </div>
+</div>
+
+<button class="btn-primary btn-small" style="float:right" @onclick="ToggleModal">
+    <span class="oi oi-data-transfer-upload" aria-hidden="true"></span> Upload
+</button>

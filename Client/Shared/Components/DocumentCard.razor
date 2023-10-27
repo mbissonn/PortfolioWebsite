@@ -1,0 +1,36 @@
+@namespace myComponents
+@using System.IO
+@inject IJSRuntime JS
+
+<div class="card w-75">
+    <div class="card-header">
+        <h5>@name</h5>
+    </div>
+    
+    <div class="card-body" name="summary">
+        @summary
+    </div>
+    
+    <div class="card-footer">
+        <button class="btn-dark btn-small" @onclick="DownloadFileFromURL">
+            <span class="oi oi-data-transfer-download" aria-hidden="true"></span> @fileName
+        </button>
+    </div>
+</div>
+
+@code
+{
+    [Parameter]
+    public string? name {get; set;}
+    [Parameter]
+    public string? fileName {get; set;}
+    [Parameter]
+    public string? fileURL {get; set;}
+    [Parameter]
+    public string? summary {get; set;}
+
+    private async Task DownloadFileFromURL()
+    {
+        await JS.InvokeVoidAsync("triggerFileDownload", fileName, fileURL);
+    }
+}

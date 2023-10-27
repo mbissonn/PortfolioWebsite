@@ -1,0 +1,21 @@
+.card {
+    background-color:rgb(18, 18, 18);
+    border: 1px solid #a1a1a1;
+    margin-bottom: 15px;
+}
+
+.card-header {
+    background-color:rgb(45, 45, 45);
+    border: 1px solid #a1a1a1;
+}
+
+.card-body {
+    border-style: solid;
+    border: 1px solid #a1a1a1;
+}
+
+.card-footer {
+    background-color:rgb(36, 36, 36);
+    border: 1px solid #a1a1a1;
+    text-align: right;
+}
