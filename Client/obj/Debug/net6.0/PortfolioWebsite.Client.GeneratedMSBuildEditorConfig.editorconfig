@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PortfolioWebsite.Client
+build_property.RootNamespace = PortfolioWebsite.Client
+build_property.ProjectDir = /Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/michaelbissonnette/GitHub/PortfolioWebsite/Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/AboutPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/FictionPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmljdGlvblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/ResearchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzZWFyY2hQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/Components/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/Components/DocumentCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvRG9jdW1lbnRDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-8ee3g1jpgk
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/Components/Modals/UploadModal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTW9kYWxzL1VwbG9hZE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-3wa9ag9wi5
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y7jqp07gpx
+
+[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b8nfs7ynko

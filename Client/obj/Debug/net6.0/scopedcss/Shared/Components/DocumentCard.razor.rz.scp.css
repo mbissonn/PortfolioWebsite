@@ -1,0 +1,21 @@
+.card[b-8ee3g1jpgk] {
+    background-color:rgb(18, 18, 18);
+    border: 1px solid #a1a1a1;
+    margin-bottom: 15px;
+}
+
+.card-header[b-8ee3g1jpgk] {
+    background-color:rgb(45, 45, 45);
+    border: 1px solid #a1a1a1;
+}
+
+.card-body[b-8ee3g1jpgk] {
+    border-style: solid;
+    border: 1px solid #a1a1a1;
+}
+
+.card-footer[b-8ee3g1jpgk] {
+    background-color:rgb(36, 36, 36);
+    border: 1px solid #a1a1a1;
+    text-align: right;
+}

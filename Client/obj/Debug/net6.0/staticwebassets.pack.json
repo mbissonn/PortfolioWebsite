@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/obj/Debug/net6.0/build-gz/NdvG+1+Z.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/obj/Debug/net6.0/scopedcss/bundle/PortfolioWebsite.Client.styles.css",
+      "PackagePath": "staticwebassets/PortfolioWebsite.Client.styles.css"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/files/Test.pdf",
+      "PackagePath": "staticwebassets/files/Test.pdf"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/files/documents/Test.pdf",
+      "PackagePath": "staticwebassets/files/documents/Test.pdf"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/js/document-card.js",
+      "PackagePath": "staticwebassets/js/document-card.js"
+    },
+    {
+      "Id": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/wwwroot/js/modal.js",
+      "PackagePath": "staticwebassets/js/modal.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.PortfolioWebsite.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.PortfolioWebsite.Client.props",
+      "PackagePath": "build\\PortfolioWebsite.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PortfolioWebsite.Client.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioWebsite.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PortfolioWebsite.Client.props",
+      "PackagePath": "buildTransitive\\PortfolioWebsite.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

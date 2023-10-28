@@ -1,0 +1,12 @@
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/bin/Debug/net6.0/PortfolioWebsite.Shared.deps.json
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/bin/Debug/net6.0/PortfolioWebsite.Shared.dll
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/bin/Debug/net6.0/PortfolioWebsite.Shared.pdb
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.csproj.AssemblyReference.cache
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.AssemblyInfoInputs.cache
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.AssemblyInfo.cs
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.csproj.CoreCompileInputs.cache
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.dll
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/refint/PortfolioWebsite.Shared.dll
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/PortfolioWebsite.Shared.pdb
+/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/obj/Debug/net6.0/ref/PortfolioWebsite.Shared.dll
