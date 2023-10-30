@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = PortfolioWebsite.Client
 build_property.RootNamespace = PortfolioWebsite.Client
-build_property.ProjectDir = /Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/
+build_property.ProjectDir = C:\Users\mbiss\GitHub\PortfolioWebsite\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/michaelbissonnette/GitHub/PortfolioWebsite/Client
+build_property.MSBuildProjectDirectory = C:\Users\mbiss\GitHub\PortfolioWebsite\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/App.razor]
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/AboutPage.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRQYWdlLnJhem9y
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/AboutPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/FictionPage.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmljdGlvblBhZ2UucmF6b3I=
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/FictionPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmljdGlvblBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Pages/ResearchPage.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzZWFyY2hQYWdlLnJhem9y
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Pages/ResearchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZWFyY2hQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/Components/Modals/Modal.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTW9kYWxzL01vZGFsLnJhem9y
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/Components/Modals/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcTW9kYWxzXE1vZGFsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/_Imports.razor]
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/Components/DocumentCard.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvRG9jdW1lbnRDYXJkLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-8ee3g1jpgk
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/Components/DocumentCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcRG9jdW1lbnRDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ccqoq1x77z
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/Components/Modals/UploadModal.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTW9kYWxzL1VwbG9hZE1vZGFsLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-3wa9ag9wi5
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/Components/Modals/UploadModal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcTW9kYWxzXFVwbG9hZE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-mfp0sakk8k
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-y7jqp07gpx
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-773whgzg5a
 
-[/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-b8nfs7ynko
+[C:/Users/mbiss/GitHub/PortfolioWebsite/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gnlkhewvfb

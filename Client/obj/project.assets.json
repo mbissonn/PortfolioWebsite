@@ -1788,32 +1788,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/michaelbissonnette/.nuget/packages/": {}
+    "C:\\Users\\mbiss\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/PortfolioWebsite.Client.csproj",
+      "projectUniqueName": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\PortfolioWebsite.Client.csproj",
       "projectName": "PortfolioWebsite.Client",
-      "projectPath": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/PortfolioWebsite.Client.csproj",
-      "packagesPath": "/Users/michaelbissonnette/.nuget/packages/",
-      "outputPath": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/obj/",
+      "projectPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\PortfolioWebsite.Client.csproj",
+      "packagesPath": "C:\\Users\\mbiss\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/michaelbissonnette/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mbiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/PortfolioWebsite.Shared.csproj": {
-              "projectPath": "/Users/michaelbissonnette/GitHub/PortfolioWebsite/Shared/PortfolioWebsite.Shared.csproj"
+            "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\PortfolioWebsite.Shared.csproj": {
+              "projectPath": "C:\\Users\\mbiss\\GitHub\\PortfolioWebsite\\Shared\\PortfolioWebsite.Shared.csproj"
             }
           }
         }
@@ -1852,7 +1854,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[6.0.24, 6.0.24]"
+            "version": "[6.0.23, 6.0.23]"
           }
         ],
         "frameworkReferences": {
@@ -1860,7 +1862,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

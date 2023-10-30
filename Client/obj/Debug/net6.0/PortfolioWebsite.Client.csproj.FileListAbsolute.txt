@@ -828,3 +828,9 @@
 /Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/obj/Debug/net6.0/refint/PortfolioWebsite.Client.dll
 /Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/obj/Debug/net6.0/PortfolioWebsite.Client.pdb
 /Users/michaelbissonnette/GitHub/PortfolioWebsite/Client/obj/Debug/net6.0/ref/PortfolioWebsite.Client.dll
+C:\Users\mbiss\GitHub\PortfolioWebsite\Client\obj\Debug\net6.0\PortfolioWebsite.Client.csproj.AssemblyReference.cache
+C:\Users\mbiss\GitHub\PortfolioWebsite\Client\obj\Debug\net6.0\PortfolioWebsite.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbiss\GitHub\PortfolioWebsite\Client\obj\Debug\net6.0\PortfolioWebsite.Client.AssemblyInfoInputs.cache
+C:\Users\mbiss\GitHub\PortfolioWebsite\Client\obj\Debug\net6.0\PortfolioWebsite.Client.AssemblyInfo.cs
+C:\Users\mbiss\GitHub\PortfolioWebsite\Client\obj\Debug\net6.0\PortfolioWebsite.Client.csproj.CoreCompileInputs.cache
+C:\Users\mbiss\GitHub\PortfolioWebsite\Client\obj\Debug\net6.0\PortfolioWebsite.Client.MvcApplicationPartsAssemblyInfo.cache
